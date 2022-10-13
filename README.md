@@ -1,2 +1,2 @@
 # coupon-center-mono
-coupon platform developed by springboot
+优惠券平台-单体架构

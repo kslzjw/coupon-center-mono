@@ -6,9 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="coupon-calculation-api" />
+        <module name="coupon-template-impl" />
         <module name="coupon-template-api" />
         <module name="coupon-template-dao" />
-        <module name="coupon-template-impl" />
+        <module name="coupon-calculation-impl" />
+        <module name="coupon-customer-serv" />
       </profile>
     </annotationProcessing>
   </component>

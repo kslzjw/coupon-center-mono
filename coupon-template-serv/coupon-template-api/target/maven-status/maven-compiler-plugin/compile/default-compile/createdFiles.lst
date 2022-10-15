@@ -1,0 +1,11 @@
+com/zjw/coupon/template/api/beans/TemplateSearchParams$TemplateSearchParamsBuilder.class
+com/zjw/coupon/template/api/beans/TemplateSearchParams.class
+com/zjw/coupon/template/api/beans/CouponInfo.class
+com/zjw/coupon/template/api/enums/CouponType.class
+com/zjw/coupon/template/api/beans/CouponTemplateInfo.class
+com/zjw/coupon/template/api/beans/CouponInfo$CouponInfoBuilder.class
+com/zjw/coupon/template/api/beans/PagedCouponTemplateInfo.class
+com/zjw/coupon/template/api/beans/PagedCouponTemplateInfo$PagedCouponTemplateInfoBuilder.class
+com/zjw/coupon/template/api/beans/rules/Discount.class
+com/zjw/coupon/template/api/beans/CouponTemplateInfo$CouponTemplateInfoBuilder.class
+com/zjw/coupon/template/api/beans/rules/TemplateRule.class

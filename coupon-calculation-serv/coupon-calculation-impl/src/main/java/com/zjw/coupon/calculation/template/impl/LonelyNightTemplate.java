@@ -13,7 +13,6 @@ import java.util.Calendar;
  * 午夜10点到次日凌晨2点之间下单，优惠金额翻倍
  *
  */
-@Slf4j
 @Component
 public class LonelyNightTemplate extends AbstractRuleTemplate implements RuleTemplate {
 

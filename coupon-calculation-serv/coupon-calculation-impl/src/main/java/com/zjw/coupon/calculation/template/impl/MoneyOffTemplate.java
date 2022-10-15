@@ -8,7 +8,6 @@ import org.springframework.stereotype.Component;
 /**
  * 满减优惠券计算规则
  */
-@Slf4j
 @Component
 public class MoneyOffTemplate extends AbstractRuleTemplate implements RuleTemplate {
 

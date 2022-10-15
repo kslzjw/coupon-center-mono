@@ -6,7 +6,6 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
 
 // PAU客户专用优惠计算逻辑，每笔订单享受996暴击
-@Slf4j
 @Component
 public class AntiPauTemplate extends AbstractRuleTemplate implements RuleTemplate {
 

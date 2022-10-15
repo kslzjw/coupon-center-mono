@@ -9,7 +9,6 @@ import org.springframework.stereotype.Component;
 /**
  * 空实现
  */
-@Slf4j
 @Component
 public class DummyTemplate extends AbstractRuleTemplate implements RuleTemplate {
 

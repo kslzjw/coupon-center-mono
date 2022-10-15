@@ -1,0 +1,5 @@
+com/zjw/coupon/template/dao/converter/RuleConverter.class
+com/zjw/coupon/template/dao/entity/CouponTemplate$CouponTemplateBuilder.class
+com/zjw/coupon/template/dao/converter/CouponTypeConverter.class
+com/zjw/coupon/template/dao/entity/CouponTemplate.class
+com/zjw/coupon/template/dao/CouponTemplateDao.class
